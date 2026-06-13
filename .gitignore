@@ -1,0 +1,19 @@
+# Python environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets and Heavy Files
+*.npy
+*.mp4
+*.csv
+data/
+processed_keypoints/
+
+# Saved Models (unless you want to share a small .pth file)
+# *.pth
+# *.pt
